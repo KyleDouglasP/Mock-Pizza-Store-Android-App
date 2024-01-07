@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">RU Pizza</string>
+    <string name="specialty">Specialty Pizzas</string>
+    <string name="build">Build Your Own Pizza</string>
+    <string name="current">Current Order</string>
+    <string name="store">Store Orders</string>
+
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+
+    <string name="size">Size</string>
+    <string name="sauce">Sauce</string>
+
+    <string name="tomato">Tomato</string>
+    <string name="alfredo">Alfredo</string>
+
+    <string name="xsauce">Extra Sauce</string>
+    <string name="xcheese">Extra Cheese</string>
+    <string name="toppings">Toppings</string>
+
+    <string name="available">Available Toppings</string>
+    <string name="selected">Selected Toppings</string>
+
+    <string name="price">Price</string>
+    <string name="addTo">Add to Order</string>
+
+    <string name="ordernum">Order Number</string>
+
+    <string name="subtotal">Subtotal</string>
+    <string name="tax">Sales Tax</string>
+    <string name="total">Order Total</string>
+
+    <string name="remove">REMOVE PIZZA</string>
+    <string name="place">PLACE ORDER</string>
+
+    <string name="cancel">CANCEL ORDER</string>
+
+    <string name="unselect">&lt;</string>
+    <string name="select">&gt;</string>
+
+</resources>
