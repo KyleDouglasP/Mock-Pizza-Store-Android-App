@@ -15,7 +15,9 @@ import androidx.databinding.ObservableArrayList;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Collections;
-
+/**
+ * @author Kyle Perry
+ */
 public class StoreActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener {
 
     private Spinner orderSelector;

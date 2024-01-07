@@ -1,5 +1,7 @@
 package com.example.myapplication;
-
+/**
+ * @author Kyle Perry
+ */
 import android.content.Context;
 import android.os.Bundle;
 import android.view.View;

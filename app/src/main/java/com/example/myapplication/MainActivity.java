@@ -1,5 +1,7 @@
 package com.example.myapplication;
-
+/**
+ * @author Kyle Perry
+ */
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;

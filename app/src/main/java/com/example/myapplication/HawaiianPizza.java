@@ -1,5 +1,8 @@
 package com.example.myapplication;
-
+/**
+ * @author Jason Abahazy
+ * @author Kyle Perry
+ */
 import java.text.DecimalFormat;
 import java.util.Collections;
 
